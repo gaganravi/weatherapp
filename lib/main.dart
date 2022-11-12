@@ -79,7 +79,7 @@ class _HomePageState extends State<HomePage> {
 
 
 
-            currentWeather(Icons.wb_sunny_rounded, "2", "Bangalore"),
+            currentWeather(Icons.wb_sunny_rounded, "20", "Bangalore"),
             Text(
               "Additional Information",
               style: TextStyle(
